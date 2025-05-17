@@ -1,0 +1,7 @@
+{
+    "records": [
+        {"name": "John Doe", "plate": "ABC123", "warrant": "None"},
+        {"name": "Jane Smith", "plate": "XYZ789", "warrant": "Active"},
+        {"name": "Michael Johnson", "plate": "LMN456", "warrant": "None"}
+    ]
+}
